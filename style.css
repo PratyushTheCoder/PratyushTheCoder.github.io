@@ -1,0 +1,14 @@
+.aboutme{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.aboutme img{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 9px;
+    height: 55px;
+}
+.aboutme h1{
+    margin-top: 10px;
+}
