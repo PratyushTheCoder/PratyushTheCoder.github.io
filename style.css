@@ -12,6 +12,12 @@
 .aboutme h1{
     margin-top: 10px;
 }
+.footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    left:0;
+}
 iframe{
     width: 100%;
 }
