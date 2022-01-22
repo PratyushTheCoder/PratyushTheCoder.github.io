@@ -21,3 +21,9 @@
 iframe{
     width: 100%;
 }
+.propic{
+	vertical-align: middle;
+	height: 42px;
+	margin-left: 5px;
+	border-radius: 20px;
+}
