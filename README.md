@@ -8,3 +8,6 @@ This is still under and yet to be made by me
 ## Made With
 <br>
 This webpage was made with the help of bootstrad and tailwind css
+<br>
+<br>
+This site has been temporarily closed due to some bugs that occured whe testing the site
