@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 .aboutme{
     display: flex;
     justify-content: center;
@@ -26,4 +28,37 @@ iframe{
 	height: 42px;
 	margin-left: 5px;
 	border-radius: 20px;
+}
+html{
+    background-color: #000000;
+}
+.imgdiv{
+    background-color: #000000;
+    text-align: center;
+    padding-top: 45px;
+}
+.imgdiv img{
+    width: 200px;
+    height: 182px;
+    border-radius: 20px;
+    position: relative;
+}
+.Uc2NEf {
+    /* display: -webkit-box; */
+    /* display: -moz-box; */
+    /* display: -webkit-flex; */
+    /* display: -ms-flexbox; */
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.imgdiv h2{
+    color: white;
+    padding-top: 10px;
+    font-family: 'Pacifico', cursive;
+}
+.githubicon{
+    color: white;
+    font-size: 15px;
+    padding-left: 5px;
 }
