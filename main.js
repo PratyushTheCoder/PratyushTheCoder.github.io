@@ -1,7 +1,5 @@
-const srcbtn = document.getElementById("srcbtn");
+const srcbtn = document.getElementById('srcbtn');
 
 srcbtn.onclick = () => {
-    const srcinput = document.getElementById("src");
-    const srcquery = srcinput.innerText;
-    console.log(srcquery);
+    alert('The search funtion is not yet implemented');
 }
